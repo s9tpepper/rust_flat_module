@@ -1,1 +1,0 @@
-/Users/omargonzalez/Documents/code/modules/target/debug/modules: /Users/omargonzalez/Documents/code/modules/src/main.rs /Users/omargonzalez/Documents/code/modules/src/my_module/file1.rs /Users/omargonzalez/Documents/code/modules/src/my_module/file2.rs /Users/omargonzalez/Documents/code/modules/src/my_module/mod.rs
